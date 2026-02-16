@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/4a1ad489-ea45-42b7-ad17-738a5313c6df" alt="CONcISE_Logo" width="30%" />
+
 # CONcISE Project
 ### Computational imaging as a training network for smart biomedical devices
 
